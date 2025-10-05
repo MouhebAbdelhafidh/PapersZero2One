@@ -1,4 +1,5 @@
-Dataset/train/
-Dataset/train_split/
-Dataset/val/
-Dataset/val_split/
+dataset/train/
+dataset/train_split/
+dataset/val/
+dataset/val_split/
+model/VQGAN/model.ckpt
